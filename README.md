@@ -1,4 +1,4 @@
-## Go Ethereum
+## Go Evrice
 
 Official Golang implementation of the Ethereum protocol.
 
