@@ -51,7 +51,7 @@ Going through all the possible command line flags is out of scope here (please c
 but we've enumerated a few common parameter combos to get you up to speed quickly
 on how you can run your own `geth` instance.
 
-### Full node on the main Ethereum network
+### Full node on the main Evrice network
 
 By far the most common scenario is people wanting to simply interact with the Ethereum
 network: create accounts; transfer funds; deploy and interact with contracts. For this
