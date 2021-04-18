@@ -21,7 +21,7 @@ import "github.com/EVRICE/go-evrice-1.10.1/common"
 // MainnetBootnodes are the enode URLs of the P2P bootstrap nodes running on
 // the main Evrice network.
 var MainnetBootnodes = []string{
-	// Ethereum Foundation Go Bootnodes
+	// Evrice Foundation Go Bootnodes
 	"enode://  //Evrice
 	"enode://  //Guzelka
 	"enode://  //rezerv
